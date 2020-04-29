@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    color: crimson;
+    text-decoration-line: underline;
+}
+.cls{
+    font-size: 20px;
+    text-decoration-line: line-through;
+}
+#bd{
+    width: 150px;
+    height: 150px;
+    font-size: 25px;
+    background-color: blueviolet;
+    margin-left: 600px;
+}
+span{
+    font-style: italic;
+    font-family: cursive;
+    background-color: cadetblue;
+}
